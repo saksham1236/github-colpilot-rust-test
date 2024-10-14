@@ -1,5 +1,4 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Marco Polo in rust + Codestral test
 
 ## References
 
